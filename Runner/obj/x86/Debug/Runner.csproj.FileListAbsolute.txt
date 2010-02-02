@@ -1,7 +1,0 @@
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Runner\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Runner\bin\Debug\Runner.exe
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Runner\bin\Debug\Runner.pdb
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Runner\bin\Debug\Practise.dll
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Runner\bin\Debug\Practise.pdb
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Runner\obj\x86\Debug\Runner.exe
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Runner\obj\x86\Debug\Runner.pdb

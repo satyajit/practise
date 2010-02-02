@@ -1,5 +1,0 @@
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Practise\bin\Debug\Practise.dll
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Practise\bin\Debug\Practise.pdb
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Practise\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Practise\obj\Debug\Practise.dll
-C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Practise\obj\Debug\Practise.pdb
