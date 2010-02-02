@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c396823d-64c3-4b3b-9504-2dd42a6a3c7e" name="satyajit@ANCONIA 2010-01-31 12:41:38" runUser="Anconia\satyajit" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="24005328-42bc-4836-a8a7-df22ad7f1a04">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="satyajit_ANCONIA 2010-01-31 12_41_38">
+      <DeploymentItem filename="C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Practise\bin\Debug\Practise.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-01-31T12:41:38.1347903-08:00" queuing="2010-01-31T12:41:41.3049716-08:00" start="2010-01-31T12:41:41.4829818-08:00" finish="2010-01-31T12:41:43.6301046-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestNegativeSubtraction" storage="c:\users\satyajit\documents\visual studio 2010\projects\practise\testpractise\bin\debug\testpractise.dll" id="f9085e1a-d2f8-c8fb-04ef-3e4eec939b9b">
+      <Execution id="2d89ff51-9c1e-4946-8c4f-4391bedfff25" />
+      <TestMethod codeBase="C:/Users/satyajit/Documents/Visual Studio 2010/Projects/Practise/TestPractise/bin/Debug/TestPractise.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestPractise.MainTest, TestPractise, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNegativeSubtraction" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f9085e1a-d2f8-c8fb-04ef-3e4eec939b9b" executionId="2d89ff51-9c1e-4946-8c4f-4391bedfff25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2d89ff51-9c1e-4946-8c4f-4391bedfff25" testId="f9085e1a-d2f8-c8fb-04ef-3e4eec939b9b" testName="TestNegativeSubtraction" computerName="ANCONIA" duration="00:00:00.0290856" startTime="2010-01-31T12:41:41.6899936-08:00" endTime="2010-01-31T12:41:43.2230813-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d89ff51-9c1e-4946-8c4f-4391bedfff25">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,7 @@
+C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\bin\Debug\TestPractise.dll
+C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\bin\Debug\TestPractise.pdb
+C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\bin\Debug\Practise.dll
+C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\bin\Debug\Practise.pdb
+C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\obj\Debug\TestPractise.dll
+C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\obj\Debug\TestPractise.pdb

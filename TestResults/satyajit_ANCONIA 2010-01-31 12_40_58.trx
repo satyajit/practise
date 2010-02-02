@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5f19b861-d678-4ed6-aa92-aed9ad96eddc" name="satyajit@ANCONIA 2010-01-31 12:40:58" runUser="Anconia\satyajit" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="24005328-42bc-4836-a8a7-df22ad7f1a04">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="satyajit_ANCONIA 2010-01-31 12_40_58">
+      <DeploymentItem filename="C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\Practise\bin\Debug\Practise.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-01-31T12:40:58.4875226-08:00" queuing="2010-01-31T12:40:59.3135698-08:00" start="2010-01-31T12:40:59.4205760-08:00" finish="2010-01-31T12:41:00.1176158-08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="3" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestNegativeMaxRangeSubtraction" storage="c:\users\satyajit\documents\visual studio 2010\projects\practise\testpractise\bin\debug\testpractise.dll" id="185d5a06-c474-ed01-2b16-68bba897db3f">
+      <Execution id="189051d4-3aea-459d-8965-2496e7ba8ff2" />
+      <TestMethod codeBase="C:/Users/satyajit/Documents/Visual Studio 2010/Projects/Practise/TestPractise/bin/Debug/TestPractise.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestPractise.MainTest, TestPractise, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNegativeMaxRangeSubtraction" />
+    </UnitTest>
+    <UnitTest name="TestAdd" storage="c:\users\satyajit\documents\visual studio 2010\projects\practise\testpractise\bin\debug\testpractise.dll" id="7504b88b-a9c7-4f16-2b97-38de1fe1d1d4">
+      <Execution id="f6bfa6cf-7592-49ab-a346-8e71284fa74e" />
+      <TestMethod codeBase="C:/Users/satyajit/Documents/Visual Studio 2010/Projects/Practise/TestPractise/bin/Debug/TestPractise.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestPractise.MainTest, TestPractise, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdd" />
+    </UnitTest>
+    <UnitTest name="TestSubtract" storage="c:\users\satyajit\documents\visual studio 2010\projects\practise\testpractise\bin\debug\testpractise.dll" id="c298320e-b549-5bd3-4bc9-05889fd8d069">
+      <Execution id="7b0580c7-35f6-4a91-b31b-518b1f477a91" />
+      <TestMethod codeBase="C:/Users/satyajit/Documents/Visual Studio 2010/Projects/Practise/TestPractise/bin/Debug/TestPractise.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestPractise.MainTest, TestPractise, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSubtract" />
+    </UnitTest>
+    <UnitTest name="TestNegativeSubtraction" storage="c:\users\satyajit\documents\visual studio 2010\projects\practise\testpractise\bin\debug\testpractise.dll" id="f9085e1a-d2f8-c8fb-04ef-3e4eec939b9b">
+      <Execution id="1f2e4bab-423d-4536-bb30-d76cbdbbd78b" />
+      <TestMethod codeBase="C:/Users/satyajit/Documents/Visual Studio 2010/Projects/Practise/TestPractise/bin/Debug/TestPractise.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestPractise.MainTest, TestPractise, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNegativeSubtraction" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="185d5a06-c474-ed01-2b16-68bba897db3f" executionId="189051d4-3aea-459d-8965-2496e7ba8ff2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7504b88b-a9c7-4f16-2b97-38de1fe1d1d4" executionId="f6bfa6cf-7592-49ab-a346-8e71284fa74e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c298320e-b549-5bd3-4bc9-05889fd8d069" executionId="7b0580c7-35f6-4a91-b31b-518b1f477a91" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f9085e1a-d2f8-c8fb-04ef-3e4eec939b9b" executionId="1f2e4bab-423d-4536-bb30-d76cbdbbd78b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="189051d4-3aea-459d-8965-2496e7ba8ff2" testId="185d5a06-c474-ed01-2b16-68bba897db3f" testName="TestNegativeMaxRangeSubtraction" computerName="ANCONIA" duration="00:00:00.0190819" startTime="2010-01-31T12:40:59.4625784-08:00" endTime="2010-01-31T12:40:59.9836082-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="189051d4-3aea-459d-8965-2496e7ba8ff2">
+    </UnitTestResult>
+    <UnitTestResult executionId="f6bfa6cf-7592-49ab-a346-8e71284fa74e" testId="7504b88b-a9c7-4f16-2b97-38de1fe1d1d4" testName="TestAdd" computerName="ANCONIA" duration="00:00:00.0014048" startTime="2010-01-31T12:40:59.9936087-08:00" endTime="2010-01-31T12:41:00.0006091-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6bfa6cf-7592-49ab-a346-8e71284fa74e">
+    </UnitTestResult>
+    <UnitTestResult executionId="7b0580c7-35f6-4a91-b31b-518b1f477a91" testId="c298320e-b549-5bd3-4bc9-05889fd8d069" testName="TestSubtract" computerName="ANCONIA" duration="00:00:00.0002715" startTime="2010-01-31T12:41:00.0036093-08:00" endTime="2010-01-31T12:41:00.0076095-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7b0580c7-35f6-4a91-b31b-518b1f477a91">
+    </UnitTestResult>
+    <UnitTestResult executionId="1f2e4bab-423d-4536-bb30-d76cbdbbd78b" testId="f9085e1a-d2f8-c8fb-04ef-3e4eec939b9b" testName="TestNegativeSubtraction" computerName="ANCONIA" duration="00:00:00.0117441" startTime="2010-01-31T12:41:00.0136099-08:00" endTime="2010-01-31T12:41:00.0296108-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1f2e4bab-423d-4536-bb30-d76cbdbbd78b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;-3&gt;. Actual:&lt;-1&gt;. </Message>
+          <StackTrace>   at TestPractise.MainTest.TestNegativeSubtraction() in C:\Users\satyajit\Documents\Visual Studio 2010\Projects\Practise\TestPractise\MainTest.cs:line 107
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
