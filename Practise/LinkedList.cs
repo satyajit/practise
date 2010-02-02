@@ -17,6 +17,7 @@ namespace Practise
         }
         ListNode next;
 
+        #region accessors
         internal ListNode Next
         {
             get { return next; }
@@ -27,25 +28,30 @@ namespace Practise
         {
             this.next = next;
             this.data = data;
-        }
+        } 
+        #endregion
     }
 
     public class LinkedList 
     {
         private ListNode head;
 
+
+        #region accessors
         internal ListNode Head
         {
             get { return head; }
             set { head = value; }
         }
-        private int count;
-
         public int Count
         {
             get { return count; }
             set { count = value; }
-        }
+        } 
+        #endregion
+        private int count;
+
+        
         //Creating a constructor that's takes data because creating null valued list is a problem
         public LinkedList(Object data)
         {
